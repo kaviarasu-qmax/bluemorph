@@ -1,0 +1,24 @@
+.fullscreen {
+    height:100%;
+    width:100%;
+  }
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+.blueMImg{
+    height: 70vh;
+    width: 80vw;
+  }
+
+.parent-box{
+    position: relative;
+  }
+
+.sibiling-box{
+    position: absolute;
+    top: 80px;
+  }
